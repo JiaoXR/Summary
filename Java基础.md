@@ -18,6 +18,8 @@
 
 示意图：
 
+![](https://github.com/JiaoXR/Summary/blob/master/pics/Throwable.jpg)
+
 - Error
   - 无法处理的异常，比如 OutOfMemoryError，一般发生这种异常，JVM 会选择终止程序；
 - Exception
@@ -119,4 +121,3 @@ public native int hashCode();
   - 虚引用必须和引用队列关联使用。
 
 > 参考链接：http://www.cnblogs.com/dolphin0520/p/3784171.html
-
